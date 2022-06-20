@@ -16,8 +16,8 @@ class Personne
     protected:
 
     public:
-        string nom;
-        int age;
+        string nom1;
+        int age1;
 };
 
 
@@ -25,9 +25,9 @@ class Professeur : Personne
 {
     public:
         Professeur (string, int, string) ;
-        string getNom();
-        string getDiplome();
+        string getNom1();
+        string getDiplome1();
 
     private:
-        string diplome;
+        string diplome1;
 };
