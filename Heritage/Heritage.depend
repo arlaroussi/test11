@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1639329007 source:f:\2021-2022\esme\ts2\cpp\exemples\heritage\src\personne.cpp
+	"Header.h"
+	<iostream>
+
+1639328529 f:\2021-2022\esme\ts2\cpp\exemples\heritage\include\personne.h
+	"Personne.h"
+	<string>
+
+1639328756 source:f:\2021-2022\esme\ts2\cpp\exemples\heritage\main.cpp
+	<iostream>
+	"Professeur.h"
+
+1639328873 f:\2021-2022\esme\ts2\cpp\exemples\heritage\include\professeur.h
+	<Personne.h>
+
+1639329206 source:f:\2021-2022\esme\ts2\cpp\exemples\heritage\src\professeur.cpp
+	<iostream>
+	"Header.h"
+
+1639329092 f:\2021-2022\esme\ts2\cpp\exemples\heritage\include\header.h
+	<string>
+
